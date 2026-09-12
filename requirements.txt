@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7
+pytest>=7.0
+sqlalchemy>=2.0
+requests
+beautifulsoup4
+python-dateutil
