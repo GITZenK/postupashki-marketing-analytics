@@ -6,7 +6,7 @@ import pandas as pd
 
 from database import get_connection, init_db
 
-
+# Hi everyone
 BASE_XLSX_PATH = Path(__file__).resolve().parent.parent / "data" / "base.xlsx"
 
 
